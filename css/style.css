@@ -100,11 +100,22 @@ img {
 }
 
 .video {
+    margin: 30px;
     padding: 10px 0 40px;
+    border-radius: 50px;
+    position: relative;
+}
+
+.video-heading {
+    padding: 20px;
 }
 
 .video-content {
     display: flex;
     align-items: center;
     flex-direction: column;
+}
+
+.video-pre {
+    margin-bottom: 20px;
 }
