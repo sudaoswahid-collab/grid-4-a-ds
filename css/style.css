@@ -98,3 +98,13 @@ img {
 .text-center {
     text-align: center;
 }
+
+.video {
+    padding: 10px 0 40px;
+}
+
+.video-content {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
