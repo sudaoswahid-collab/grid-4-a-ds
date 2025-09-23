@@ -19,7 +19,9 @@
     margin: 5px;
     color: var(--text-list);
     background-color: var(--btn-color);
+    text-align: center;
     padding: 13px 20px;
+
     transition: background 0.15s ease-in-out;
 }
 
